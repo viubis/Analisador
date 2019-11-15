@@ -1,0 +1,8 @@
+int soma, a, b; 
+a = 2; 
+b = 3; 
+soma = a + b; 
+if(soma > 3) 
+return soma; 
+elsse 
+return 0; 
